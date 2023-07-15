@@ -1,0 +1,6 @@
+CREATE TABLE persoane (
+    id               INT,
+    nume_persoana    VARCHAR (100),
+    prenume_persoana VARCHAR (100),
+    data_nasterii    DATE
+);
