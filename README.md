@@ -9,3 +9,6 @@ The script also includes command-line arguments for customization, such as speci
 The overall structure of the code follows the object-oriented programming (OOP) paradigm, with the main application logic contained within the MyApp class. It includes methods for initializing the GUI, handling button clicks, interacting with the database, and displaying message boxes for warnings or notifications.
 
 In addition to the main script, there are imports from other modules (seleni, view_clients, update_client) and the necessary import statements for the required libraries and modules.
+
+
+the warning in the file seleni.py remember you can replace with other different flows, the site in the code is only for testing.
